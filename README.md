@@ -1,6 +1,6 @@
 # Markdown-Test
 
-```C++
+```cpp
 #include <iostream>
 
 int main() {
